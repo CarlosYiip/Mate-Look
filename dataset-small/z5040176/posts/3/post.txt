@@ -1,0 +1,5 @@
+message=To the cute dataless girl who asked for the bus timetable at the 895 bus line today. Feel free to ask for my timetable as well and maybe i can hotspot you ;)
+longitude=151.2342
+from=z5040176
+time=2016-04-25T10:52:42+0000
+latitude=-33.9111

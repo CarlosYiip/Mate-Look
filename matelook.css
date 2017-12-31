@@ -1,0 +1,141 @@
+/*
+ * written by andrewt@cse.unsw.edu.au September 2016
+ * as a starting point for COMP2041/9041 assignment 2
+ * http://cgi.cse.unsw.edu.au/~cs2041/assignments/matelook/
+ *
+ * Change (or replace) the CSS below to create you own look-and-feel
+ *
+ * You will probably want to add  CSS to this file too
+ */
+
+.matelook_heading {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.matelook_user_photo {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    /*width: 50%;*/
+}
+
+.matelook_button {
+    text-align: center;
+}
+
+.matelook_user_thumbnail_image {
+    height: 7%;
+    width: 7%;
+    border-radius: 50%;
+    display: block;
+    /*width: 50%;*/
+}
+
+.matelook_font {
+    font-size: larger;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    font-weight: bold;
+}
+
+.matelook_warning {
+    text-align: center;
+    font-size: large;
+}
+
+.matelook_user_details {
+    position: relative;
+    left: 30%;
+    width: 40%;
+    background-color: black;
+    color: white;
+    white-space: pre;
+    border:thin solid #204142;
+    border-radius: 1em;
+    padding-left: 0.42em;
+    text-align: center;
+    font-size: medium;
+}
+
+.matelook_user_posts_area {
+    position: relative;
+    left: 20%;
+    width: 60%;
+    border: thin solid #204142;
+    border-radius: 1em;
+    padding-left: 0.42em;
+}
+
+.matelook_user_posts_content {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border: thin solid #204142;
+    border-radius: 1em;
+    padding-left: 0.42em;
+}
+
+.matelook_user_reply_content{
+    position: relative;
+    left: 10%;
+    font-size: medium;
+}
+
+.matelook_input {
+    text-align: center;
+}
+
+
+.matelook_mate_list {  
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+.matelook_comments_area {
+    /*text-indent: 50px;*/
+    /*font-size: x-large;*/
+    position: relative;
+    /*left: 20%;*/
+    /*width: 60%;*/
+    border: thin solid #204142;
+    border-radius: 1em;
+    padding-left: 0.42em;
+}
+
+
+ul {
+    width: 100%;
+    display: inline-block;
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+h2 {
+    text-align: center;
+}

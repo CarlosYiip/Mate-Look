@@ -1,0 +1,11 @@
+home_latitude=-33.7393
+birthday=1995-08-16
+program=Computer Science and Eng
+home_suburb=Castle Hill
+zid=z3462191
+mates=[z5014861, z5063045, z5059413, z3413158]
+courses=[2016 S2 COMP4418, 2016 S2 COMP9902, 2016 S2 GSOE9400]
+full_name=Carmen Electra
+home_longitude=150.9988
+email=C.Electra@unsw.edu.au
+password=maxwell

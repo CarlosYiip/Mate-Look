@@ -1,0 +1,13 @@
+05/10/16	18:00	18:15	put the first real entry in diary.txt (delete this line!)
+20/10/16	12:30	14:00	Finish setting up docker and start assignment 2
+21/10/16	8:00	18:00	Coding level 0
+22/10/16	9:00	17:00	Coding level 1
+23/10/16	13:00	21:00	Coding level 1
+24/10/16	11:00	20:00	Finish Level 1, modified some css, begin Level2
+24/10/16	21:00	00:00	Coding Level 2
+25/10/16	9:00	11:00	Write comments for written code and continue coding level 2
+25/10/16	12:00	16:00	Finish Level 2
+25/10/16	21:00	12:00	Finish Mate and unmate
+26/10/16	10:30	23:30	Continue coding level 3
+27/10/16	12:00	18:00	Continue coding level 3
+29/10/16	9:00	13:30	Continue coding level 3
